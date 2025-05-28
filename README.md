@@ -1,7 +1,8 @@
 # Hardware
 Embodiment of the ball
 
-![image](https://github.com/user-attachments/assets/2447f2a6-81ed-41a7-bb1c-859856c513a6)
+![Assemblyv22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2a08db5d-b2ea-4182-a43b-69adc688fe68)
+
 
 
 Drivetrain V1
