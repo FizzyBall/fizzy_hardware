@@ -1,6 +1,9 @@
 # Hardware
 Embodiment of the ball
 
+![image](https://github.com/user-attachments/assets/2447f2a6-81ed-41a7-bb1c-859856c513a6)
+
+
 Drivetrain V1
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/c248bb49-0abe-4251-92b6-90f5725a54f3" />
 
