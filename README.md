@@ -1,5 +1,5 @@
 # Hardware
-Embodiment of the ball
+Embodiment of the robotic ball
 
 ![Assemblyv22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2a08db5d-b2ea-4182-a43b-69adc688fe68)
 
