@@ -1,14 +1,14 @@
 # Hardware
-Embodiment of the ball
+Embodiment of the robotic ball
 
 ![Assemblyv22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2a08db5d-b2ea-4182-a43b-69adc688fe68)
 
 
 
-Drivetrain V1
+Drivetrain V3.0
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/c248bb49-0abe-4251-92b6-90f5725a54f3" />
 
-Drivetrain V2
+Drivetrain V3.1
 <img width="358" alt="image" src="https://github.com/user-attachments/assets/a88fddd2-520d-409f-bc77-3db1bb08cd59" />
 
 Rigid shell V1
