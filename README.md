@@ -1,6 +1,10 @@
 # Hardware
 Embodiment of the robotic ball
 
+
+
+
+<!-- 
 ![Assemblyv22-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2a08db5d-b2ea-4182-a43b-69adc688fe68)
 
 
@@ -21,4 +25,4 @@ Flexible shell V1
 <img width="351" alt="image" src="https://github.com/user-attachments/assets/d1c45a48-ebbb-4e1f-bc71-c3596fb3b820" />
 
 Flexible shell V2
-<img width="286" alt="image" src="https://github.com/user-attachments/assets/af3fa73f-5874-4714-b7da-b9b156e4ae3e" />
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/af3fa73f-5874-4714-b7da-b9b156e4ae3e" /> -->
